@@ -1,6 +1,12 @@
 Resources = contains data
+
+
 climate.ipynb = starter notebook for assignment)
+
+
 app.py = contains flask
+
+
 temp_analysis_1.ipynb and temp_analysis_2.ipynb = Jupyter Notebooks containing two bonus questions
 
 
