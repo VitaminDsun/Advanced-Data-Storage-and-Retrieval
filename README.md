@@ -7,7 +7,7 @@ climate.ipynb = starter notebook for assignment)
 app.py = contains flask
 
 
-temp_analysis_bonus_1_starter.ipynb and temp_analysis_bonus_2_starter.ipynb = Jupyter Notebooks containing two bonus questions
+temp_analysis_bonus_1_starter.ipynb and temp_analysis_bonus_2_starter.ipynb = Jupyter Notebooks containing the two bonus questions
 
 
 # Unit 10 Homework: Surf’s Up
